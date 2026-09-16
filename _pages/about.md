@@ -9,7 +9,10 @@ redirect_from:
 
 ## Biography
 
-I am an undergraduate student majoring in Business English at Jinan University (2022-2026). My academic interests focus on international business communication, cross-cultural communication, and rural education revitalization. I have actively participated in provincial and university-level innovation and entrepreneurship projects, and have gained practical experience through internships at the Shenzhen Stock Exchange and China Construction Bank.
+My academic interests focus on international business communication, cross-cultural communication. I have actively participated in provincial and university-level innovation and entrepreneurship projects, and have gained practical experience through internships at the Shenzhen Stock Exchange and China Construction Bank.
+**School:** Nanjing University
+**MBTI:** ISTP
+**Hobbies:** Fitness, Photography, Cycling
 
 ## Education
 
