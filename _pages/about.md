@@ -13,16 +13,10 @@ I am an undergraduate student majoring in Business English at Jinan University (
 
 ## Education
 
+**Nanjing University** | School of Journalism and Communication | Master of Journalism and Communication (Digital Marketing Track)
+*Aug 2026 - Present*
 **Jinan University** | Bachelor of Arts in Business English
 *Aug 2022 - Jun 2026 (Expected)*
-
-**Core Courses:**
-- International Business Communication (90)
-- Business English Discourse Analysis (90)
-- Creative Writing (90)
-- Business English Writing (93)
-- Cross-border E-commerce Entrepreneurship Training (98)
-- Innovation and Entrepreneurship Case Analysis and Practice (96)
 
 ## Research Projects
 
@@ -34,7 +28,7 @@ I am an undergraduate student majoring in Business English at Jinan University (
 **2025 College Students' Innovation and Entrepreneurship Training Program (University Level)** | Core Member
 *Project: Research on the Communication Value of Excellent Traditional Chinese Culture - Taking Mazu Belief Customs in Taiwan as an Example*
 - **Responsibilities:** Led foreign literature review and theoretical framework construction. Designed quantitative questionnaires and conducted field investigations in Mazu belief activities across Matsu Islands, Hainan, and Guangdong. Collaborated on the spatiotemporal comprehensive mapping.
-- **Outcomes:** The number of valid samples collected from the questionnaire reached [x] (请改成具体数字，如果没有就删掉这句).
+- **Outcomes:** The number of valid samples collected from the questionnaire.
 
 ## Internship Experience
 
@@ -53,7 +47,7 @@ I am an undergraduate student majoring in Business English at Jinan University (
 **Jinan University Taiwan Student Association** | Administrative Department Member
 *Sep 2022 - Jun 2025*
 
-**Natureconferences (Disruptive Photonics)** | Foreign Language Translation Volunteer
+**Nature Conferences (Disruptive Photonics)** | Foreign Language Translation Volunteer
 *Nov 2024*
 - Provided Chinese-English bilingual translation services for conference staff and foreign scholars, covering academic discussions, registration guidance, and schedule Q&A.
 
@@ -64,6 +58,6 @@ I am an undergraduate student majoring in Business English at Jinan University (
 
 ## Skills & Certificates
 
-- **Languages:** CET-4 (College English Test Band 4); Mandarin Grade Two Level B.
+- **Languages:** TBEM-8.
 - **Professional Qualifications:** Junior Accountant; WPS Computer Level 2.
 - **Awards:** 2024 Third-Class Taiwan Student Scholarship; 2024 8th National Cross-border E-commerce Professional Ability Competition (Student Group) Third Prize.
