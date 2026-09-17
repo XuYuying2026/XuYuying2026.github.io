@@ -17,22 +17,23 @@ My academic interests focus on international business communication, cross-cultu
 
 ## Education
 
-**Nanjing University** | School of Journalism and Communication | Master of Journalism and Communication (Digital Marketing Track)
-*Aug 2026 - Present*
-**Jinan University** | Bachelor of Arts in Business English
-*Aug 2022 - Jun 2026 (Expected)*
+- **Nanjing University** | School of Journalism and Communication
+  Master of Journalism and Communication (Digital Marketing Track) | *Aug 2026 - Present*
+- **Jinan University** | School of Foreign Languages
+  Bachelor of Arts in Business English ｜ *Aug 2022 - Jun 2026 (Expected)*
+ 
 
 ## Research Projects
 
-**2025 College Students' Innovation and Entrepreneurship Training Program (Provincial Level)** | Core Member
-*Project: To Know and to Act, "Reading" the World - Cloud Volunteer Teaching Practice of Bay Area College Students Helping Rural English Education in Yunnan under the Background of Rural Revitalization*
-- **Responsibilities:** Drafted the preliminary project application, identified gaps in existing educational assistance projects, and designed research plans. Collaborated with the team to customize teaching plans and materials tailored to Yunnan's regional characteristics. Undertook regular teaching and learning task assignments.
-- **Highlights:** Promoted the formation of an English education assistance program with regional characteristics, cumulatively serving over 100 rural students.
-
-**2025 College Students' Innovation and Entrepreneurship Training Program (University Level)** | Core Member
-*Project: Research on the Communication Value of Excellent Traditional Chinese Culture - Taking Mazu Belief Customs in Taiwan as an Example*
-- **Responsibilities:** Led foreign literature review and theoretical framework construction. Designed quantitative questionnaires and conducted field investigations in Mazu belief activities across Matsu Islands, Hainan, and Guangdong. Collaborated on the spatiotemporal comprehensive mapping.
-- **Outcomes:** The number of valid samples collected from the questionnaire.
+- **2025 College Students' Innovation and Entrepreneurship Training Program (Provincial Level)** | Core Member
+  *Project: To Know and to Act, "Reading" the World - Cloud Volunteer Teaching Practice of Bay Area College Students Helping Rural English Education in Yunnan under the Background of Rural Revitalization*
+  - **Responsibilities:** Drafted the preliminary project application, identified gaps in existing educational assistance projects, and designed research plans. Collaborated with the team to customize teaching plans and materials tailored to Yunnan’s regional characteristics. Undertook regular teaching and learning task assignments.
+  - **Outcomes:** Promoted the formation of an English education assistance program with regional characteristics, cumulatively serving over 100 rural students.
+    
+- **2025 College Students' Innovation and Entrepreneurship Training Program (University Level)** | Core Member
+  *Project: Research on the Communication Value of Excellent Traditional Chinese Culture - Taking Mazu Belief Customs in Taiwan as an Example*
+  - **Responsibilities:** Led foreign literature review and theoretical framework construction. Designed quantitative questionnaires and conducted field investigations in Mazu belief activities across Matsu Islands, Hainan, and Guangdong. Collaborated on the spatiotemporal comprehensive mapping.
+  - **Outcomes:** The number of valid samples collected from the questionnaire.
 
 ## Internship Experience
 
