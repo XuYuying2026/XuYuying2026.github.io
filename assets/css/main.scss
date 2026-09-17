@@ -37,3 +37,9 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+body {
+  background-image: url('/images/background.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
