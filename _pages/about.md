@@ -17,12 +17,14 @@ My academic interests focus on international business communication, cross-cultu
 
 ## Education
 
-- **Nanjing University** | School of Journalism and Communication
-  Master of Journalism and Communication (Digital Marketing Track) | *Aug 2026 - Present*
-- **Jinan University** | School of Foreign Languages
-  Bachelor of Arts in Business English ｜ *Aug 2022 - Jun 2026 (Expected)*
- 
+| Nanjing University | School of Journalism and Communication |
+| :--- | :--- |
+| Master of Journalism and Communication (Digital Marketing Track) | *Aug 2026 - Present* |
 
+| Jinan University | School of Foreign Languages |
+| :--- | :--- |
+| Bachelor of Arts in Business English | *Aug 2022 - Jun 2026 (Expected)* |
+ 
 ## Research Projects
 
 - **2025 College Students' Innovation and Entrepreneurship Training Program (Provincial Level)** | Core Member
@@ -49,15 +51,15 @@ My academic interests focus on international business communication, cross-cultu
 
 ## Campus Experience & Volunteering
 
-**Jinan University Taiwan Student Association** | Administrative Department Member
-*Sep 2022 - Jun 2025*
+**Jinan University Taiwan Student Association**
+*Administrative Department Member | Sep 2022 - Jun 2025*
 
-**Nature Conferences (Disruptive Photonics)** | Foreign Language Translation Volunteer
-*Nov 2024*
+**Nature Conferences (Disruptive Photonics)**
+*Foreign Language Translation Volunteer | Nov 2024*
 - Provided Chinese-English bilingual translation services for conference staff and foreign scholars, covering academic discussions, registration guidance, and schedule Q&A.
 
-**The 135th & 136th Canton Fair** | Foreign Language Translation Volunteer
-*May 2024 & Nov 2024*
+**The 135th & 136th Canton Fair**
+*Foreign Language Translation Volunteer | May 2024 & Nov 2024*
 - Assisted in matching demands and promoting cooperation between buyers and exhibitors.
 - Provided instant translation services for venue staff and global buyers, covering process guidance and business communication.
 
